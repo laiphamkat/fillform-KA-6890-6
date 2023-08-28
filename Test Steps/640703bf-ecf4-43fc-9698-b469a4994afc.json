@@ -1,0 +1,13 @@
+{
+    "steps": [
+        "step 1: Navigate to Page_contact_step1",
+        "step 2: At Page_contact_step1 click on input_contact_switch",
+        "step 3: At Page_contact_step1 click on button_contact_next --> navigate to Page_contact_step2",
+        "step 4: At Page_contact_step2 click on input_object",
+        "step 5: At Page_contact_step2 click on input_radio_buttons_group",
+        "step 6: At Page_contact_step2 click on textarea_member_dddress",
+        "step 7: At Page_contact_step2 input on textarea_member_dddress",
+        "step 8: At Page_contact_step2 click on button_member_next --> navigate to Page_contact_step3",
+        "step 9: Add visual checkpoint at Page_contact_step3"
+    ]
+}
