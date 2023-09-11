@@ -1,8 +1,0 @@
-{
-    "steps": [
-        "step 1: Navigate to Page_dvc-home",
-        "step 2: At Page_dvc-home click on button_tax --> navigate to Page_dvc-home_tax-form1",
-        "step 3: At Page_dvc-home_tax-form1 click on input_combo_box_demo",
-        "step 4: Add visual checkpoint at Page_dvc-home_tax-form1"
-    ]
-}
